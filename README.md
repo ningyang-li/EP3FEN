@@ -1,7 +1,7 @@
 # EP3FEN
 **Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection** [Paper](https://www.researchsquare.com/article/rs-4820019/v1)  
-Authors: Ningyang Li, Zhaohui Wang, Lei Wang  
-PREPRINT (Version 1) available at Research Square (Accepted by Colour and Visual Computing Symposium 2024)  
+Authors: Ningyang Li  
+PREPRINT (Version 1) available at Research Square (Ever accepted by Colour and Visual Computing Symposium 2024)  
 Environment: Python 3.6., Tensorflow 2.2.2, Keras 2.3.1, Numpy 1.19.  
 
 **Abstract:**  
@@ -17,6 +17,6 @@ Hyperspectral classification is a research hotspot in the field of remote sensin
 <img src="https://github.com/ningyang-li/EP3FEN/blob/e2e9e2fe8844446c231b577d1b7f5d295a7596b6/pic/EP3FEN.png" width="500" />  
 
 **Citation:**  
-N. Li, Z. Wang, and L. Wang, "Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection," PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4820019/v1].
+N. Li, "Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection," PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4820019/v1].
 
 
