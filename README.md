@@ -14,7 +14,7 @@ Hyperspectral classification is a research hotspot in the field of remote sensin
 4. SDC block adopted a locally-connected layer to accurately model the spectral dependency of the center pixel.
 
 
-<img src="https://github.com/ningyang-li/EP3FEN/blob/e2e9e2fe8844446c231b577d1b7f5d295a7596b6/pic/EP3FEN.png" width="500" />  
+<img src="https://github.com/ningyang-li/EP3FEN/blob/93d312375a233404392ad6e5fbbc8a97de3751b8/pic/EP3FEN.png" width="700" />  
 
 ## Citation
 ```
