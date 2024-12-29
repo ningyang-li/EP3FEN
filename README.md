@@ -18,6 +18,6 @@ Hyperspectral classification is a research hotspot in the field of remote sensin
 
 ## Citation
 ```
-N. Li, "Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection," PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-4820019/v1].
+N. Li, "Hyperspectral remote sensing image classification based on enhanced pseudo 3D features and salient band selection," PREPRINT (Version 2) available at Research Square [https://www.researchsquare.com/article/rs-4820019/v2].
 ```
 
